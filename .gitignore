@@ -1,2 +1,6 @@
 # Datasource 
 /손학영/data/
+.DS_Store
+김진성/.DS_Store
+*.csv
+김진성/iris dataset/.ipynb_checkpoints/iris-visualization-tip-checkpoint.ipynb
