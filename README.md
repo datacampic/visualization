@@ -15,7 +15,9 @@
 
 
 
-**<10월 18일 ~ 10월 31일>** 
+### 📘 What 
+
+#### 10월 18일 ~ 10월 25일
 
 -  시각화 패키지 공부
 
@@ -30,11 +32,17 @@
 
   - [Matplotlib](https://www.kaggle.com/subinium/simple-matplotlib-visualization-tips)
 
-    
+
+
+#### 10월 25일 ~ 11월 4일
+
+- 스터디 내용 : 시각화 패키지 공부 
+- 사용 데이터 
+  - 데이콘 : [부동산데이터](https://dacon.io/competitions/official/235724/overview/description), [재정데이터](https://dacon.io/competitions/official/235767/overview/description) 
 
 
 
-**<11월 1일 ~ 11월 30일 >** 
+#### 11월 1일 ~ 11월 30일 
 
 - 데이터 : 데이콘과 캐글에서 가져오기 
 
@@ -46,7 +54,9 @@
 
 
 
-**<12월 1일 ~ >** (12월 되면 다시 논의)
+#### 12월 1일 ~ 
+
+ (12월 되면 다시 논의)
 
 - 딥러닝 라이브러리 정해서 진행 
 - 관심 분야 (NLP, 이미지 처리...) 
