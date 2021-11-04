@@ -17,16 +17,11 @@
 
 ### 📘 What 
 
-#### 10월 18일 ~ 10월 25일
+#### W1 : 10월 18일 ~ 10월 25일
 
--  시각화 패키지 공부
+- 시각화 패키지 공부 
 
-  - 캐글 
-  - 데이콘 코드 공유 
-
-- 하나의 데이터를 plot 종류 별로 다 그림 -> 패키지 별로 시각화 
-
-  - bar, pie .... 
+- 하나의 데이터를 plot 종류 별로 다 그림 
 
 - Reference 
 
@@ -34,15 +29,44 @@
 
 
 
-#### 10월 25일 ~ 11월 4일
+#### W2 : 10월 25일 ~ 11월 4일
 
-- 스터디 내용 : 시각화 패키지 공부 
+##### 💪🏻 목표 
+
+- 시각화 패키지 공부 
+
 - 사용 데이터 
   - 데이콘 : [부동산데이터](https://dacon.io/competitions/official/235724/overview/description), [재정데이터](https://dacon.io/competitions/official/235767/overview/description) 
 
+##### ✏ 정리 
+
+- Plotly 사용법 
+- Tableau 사용법 
+- 다음 모델링 공부 계획 
 
 
-#### 11월 1일 ~ 11월 30일 
+
+#### W3 : 11월 4일 ~ 11월 8일 
+
+##### 💪🏻 목표 
+
+- 분류 모델 공부 
+  - Decision Tree 
+  - 앙상블 
+  - 랜덤포레스트 
+  - 로지스틱 
+- 사용 데이터 
+  - [Kaggle Mushroom Data](https://www.kaggle.com/uciml/mushroom-classification)
+
+##### ✏ 정리 
+
+
+
+
+
+---
+
+
 
 - 데이터 : 데이콘과 캐글에서 가져오기 
 
